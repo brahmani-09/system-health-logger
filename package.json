@@ -1,0 +1,10 @@
+{
+  "name": "system-health-logger",
+  "version": "1.0.0",
+  "description": "Prints OS memory details and file path info using the built-in os and path modules.",
+  "main": "system-health-logger.js",
+  "scripts": {
+    "start": "node system-health-logger.js"
+  },
+  "license": "MIT"
+}
